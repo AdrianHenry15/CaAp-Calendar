@@ -44,6 +44,7 @@ function load() {
     month: 'numeric',
     day: 'numeric',
   });
+  // days from previous month
   const paddingDays = weekdays.indexOf(dateString.split(', ')[0]);
 
   document.getElementById('monthDisplay').innerText = 
