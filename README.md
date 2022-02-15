@@ -1,4 +1,5 @@
-# CaAp-Calendar
+# Calendar Application
+
 
 # References
 - https://youtu.be/m9OSBJaQTlM
