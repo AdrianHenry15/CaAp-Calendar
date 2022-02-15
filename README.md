@@ -6,7 +6,7 @@ This application displays a calendar of local time so that the user can log even
 ## Tools and Skills
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - moment.js
 - jQuery
 - ES6
